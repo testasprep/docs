@@ -35,10 +35,8 @@ import {
 const CONFIG = {
   liveAppUrl: "https://testasprep.netlify.app",
   githubOrgUrl: "https://github.com/testasprep",
-  // TODO: paste your published Medium article URL here
-  mediumBlogUrl: "",
-  // TODO: paste your GitHub docs repo URL here once created
-  repoUrl: "",
+  mediumBlogUrl: "https://medium.com/@testasprepsupport/testas-mastery-the-free-all-in-one-prep-platform-for-the-testas-exam-2026-deep-dive-1ab54ea08368",
+  repoUrl: "https://github.com/testasprep/docs",
   contactEmail: "testasprepsupport@gmail.com",
 };
 
