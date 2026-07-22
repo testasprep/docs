@@ -35,7 +35,7 @@ import {
 const CONFIG = {
   liveAppUrl: "https://testasprep.netlify.app",
   githubOrgUrl: "https://github.com/testasprep",
-  mediumBlogUrl: "https://medium.com/@testasprepsupport/testas-mastery-the-free-all-in-one-prep-platform-for-the-testas-exam-2026-deep-dive-1ab54ea08368",
+  mediumBlogUrl: "https://testasmastery.blogspot.com",
   repoUrl: "https://github.com/testasprep/docs",
   contactEmail: "testasprepsupport@gmail.com",
 };
