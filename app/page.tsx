@@ -53,7 +53,7 @@ const CONFIG = {
   officialDocsUrl: "https://testasprepdocs.vercel.app",
   githubOrgUrl: "https://github.com/testasprep",
   repoUrl: "https://github.com/testasprep/docs",
-  mediumBlogUrl: "https://testasmastery.blogspot.com/2026/07/testas-exam-prep-for-german-university.html",
+  mediumBlogUrl: "https://testasprep.blogspot.com/2026/07/testas-exam-free-prep-for-german.html",
   contactEmail: "testasprepsupport@gmail.com",
 };
 
