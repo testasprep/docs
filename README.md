@@ -3,6 +3,7 @@
 This repository contains the source code for the official documentation site of **TestAS Mastery** — a premier, browser-based exam preparation platform for the TestAS (Test for Academic Studies) exam, engineered to support international students applying to German universities.
 
 The live application is accessible at: **[testasprep.netlify.app](https://testasprep.netlify.app)**
+The documentation is accessible at: **[testasprepdocs.vercel.app/](https://testasprepdocs.vercel.app)**
 
 ---
 
